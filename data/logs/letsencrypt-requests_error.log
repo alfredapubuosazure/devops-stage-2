@@ -1,0 +1,1 @@
+2024/07/08 21:27:15 [error] 205#205: *142 open() "/data/letsencrypt-acme-challenge/.well-known/acme-challenge/ad39AJcMahb6jUOjZXfCdrIOcP1I0Dr_to3kUH9TC0A" failed (2: No such file or directory), client: 54.151.211.87, server: frontend-app.mooo.com, request: "GET /.well-known/acme-challenge/ad39AJcMahb6jUOjZXfCdrIOcP1I0Dr_to3kUH9TC0A HTTP/1.1", host: "frontend-app.mooo.com"
